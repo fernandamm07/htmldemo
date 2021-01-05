@@ -1,1 +1,1 @@
-body {background-color: #92a8d1;}
+alert('Welcome to the Jungle!!!')
